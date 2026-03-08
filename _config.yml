@@ -1,0 +1,7 @@
+title: Brandon Travel Pages
+description: Structured travel intelligence reference pages for airports, visas, time zones, languages, aviation networks, and global mobility.
+baseurl: ""
+url: ""
+markdown: kramdown
+plugins: []
+permalink: pretty
